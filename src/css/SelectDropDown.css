@@ -1,0 +1,17 @@
+button.btn {
+    background:#31b4e0;
+    border-color: #31b4e0;
+    border-radius: 0;
+}
+.dropdown.date-range {
+    background: none;
+    padding: 10px 0;
+}
+.dropdown-menu.date-range-options {
+    background: #31b4e0;
+    color: #fff;
+}
+.dropdown-menu.date-range-options li {
+    padding: 10px;
+    cursor: pointer;
+}

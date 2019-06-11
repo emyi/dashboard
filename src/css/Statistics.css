@@ -1,0 +1,19 @@
+.statistics {
+    background: #fff;
+    padding: 1em;
+}
+h2 {
+    font-size: .9em;
+}
+.smaller {
+    font-size: .3em;
+}
+.bigger {
+    font-size: 2em;
+}
+.ta-center {
+    text-align: center;
+}
+.img-wrapper {
+    width: 80%;
+}
